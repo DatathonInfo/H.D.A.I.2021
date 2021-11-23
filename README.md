@@ -67,7 +67,7 @@
   
   <tr>
     <td align=center>
-      <strong>공지 </strong><br>
+      <strong> 사전 공지 </strong><br>
     </td>
     <td align=center>2021년 11월 26일(금)</td>
     <td align=center> 이메일 공지 </td>
