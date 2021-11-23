@@ -62,7 +62,7 @@
       <strong>참가 신청</strong><br>
     </td>
     <td align=center> 2021년 10월 27일(수) ~ 11월 25일(목)</td>
-    <td align=center> 온라인 </td>
+    <td align=center> https://hdaidatathon.com/ </td>
   </tr>
   
   <tr>
