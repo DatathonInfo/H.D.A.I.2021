@@ -1,5 +1,3 @@
-# private-heart_disease
-
 ![heard_disease](https://user-images.githubusercontent.com/92664643/142970693-2bff9940-1d49-4a52-a806-73f58a8f6210.jpg)
 
 # HEART DISEASE AI DATATHON 2021
