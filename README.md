@@ -77,7 +77,7 @@
     <td align=center>
       <strong>(본선) AI 모델 제출</strong><br>
     </td>
-    <td align=center>2021년 11월 26일(금) ~ 12월 07일(화)</td>
+    <td align=center>2021년 11월 26일(금) ~ 12월 12일(화)</td>
     <td align=center> hdaidatathon@gmail.com로 제출 </td>
   </tr>
   
